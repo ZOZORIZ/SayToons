@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622967767642",
+    "project_id": "saytoons-28b35",
+    "storage_bucket": "saytoons-28b35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622967767642:android:24d67fd7a504a0741f8e63",
+        "android_client_info": {
+          "package_name": "com.saytoons.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622967767642-1g4d5s9ss5cfds82k2f8voag8r42om9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saytoons.app",
+            "certificate_hash": "9a628bd58a4552be6816f5e47e1ca284271d549e"
+          }
+        },
+        {
+          "client_id": "622967767642-hhlq4io4s9b9g82hvtdl5tu78b981l57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO7ZXOeDqV62RnTEJkitLjdZVu0nAkRl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622967767642-hhlq4io4s9b9g82hvtdl5tu78b981l57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
