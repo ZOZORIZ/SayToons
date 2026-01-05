@@ -29,7 +29,6 @@
 - **AI Generation:** Pollinations.ai (Turbo Model)
 - **Speech Recognition:** Android SpeechRecognizer
 - **Image Loading:** Coil (with GIF support)
-- **Video Playback:** Media3 (ExoPlayer)
 - **Backend:** Firebase (Auth & Firestore) for syncing progress.
 
 ---
